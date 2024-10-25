@@ -1,5 +1,6 @@
-# BlackJack Vite
-
+# BlackJack Vite 
+Descripcion: Esto es un minijuego en Javascript con Node y Vite para jugar cotra la computadora.
+Diviertanse jugando. :D
 Pasos para ejecutar proyecto:
 
 1. Clonar repositorio
